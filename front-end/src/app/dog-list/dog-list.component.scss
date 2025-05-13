@@ -1,8 +1,0 @@
-ul {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
-  max-width: 1200px;
-  gap: 2rem 1.5rem;
-  padding: 2rem;
-  margin: 0 auto;
-}
